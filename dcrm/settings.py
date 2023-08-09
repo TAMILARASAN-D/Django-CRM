@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'dcrm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'crmdb',
+        'NAME': 'leematdb',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': 'localhost',

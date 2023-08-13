@@ -1,5 +1,5 @@
 # Django-CRM
-Developed a CRM (Customer Relationship Management) App with Django, Python, and MySQL.
+Developed a Customer Relationship Management - CRM App with Django, Python, and MySQL.
 
 The app will use MySQL for the database.
 
